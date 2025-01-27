@@ -1,0 +1,5 @@
+First you have to write the code in the file save as filename.py than run with the command python.py 
+for git configuaration use follwing cmd
+    git init     
+make the branch git branch branch name than go git checkout to go that branch
+for this branch name is pzthon learning
