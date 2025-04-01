@@ -9,3 +9,5 @@ print(id(length), id(breadth))
 length_1 =100
 breadth_2 =100
 print(id(length_1), id(breadth_2))
+#to print the value we have to write the statement than add the variable name
+print('the value of the length_1 is ',length_1)
